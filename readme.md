@@ -15,3 +15,8 @@
   npm run dev
   ```
   Then go to http://localhost:5173, You'll see the page.
+
+
+## Todo
+- [ ] The tone of character "一" may differs in different idioms, need to handle this case.
+- [ ] The rhyme like "iang", "iong" is same as "ang", "ong" in Chinese, need to handle this case.
