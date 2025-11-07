@@ -19,4 +19,4 @@
 
 ## Todo
 - [ ] The tone of character "一" may differs in different idioms, need to handle this case.
-- [ ] The rhyme like "iang", "iong" is same as "ang", "ong" in Chinese, need to handle this case.
+- [ ] The rhyme like "iong" is same as "ong" in Chinese, need to handle this case.
